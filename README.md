@@ -1,6 +1,6 @@
 # **Aplicação - Agenda de Contato - V.1** 🚀
 
-Desafio de Projeto proposto no curso **DIVersidade TECH**, da [Let's Code from ADA](https://www.letscode.com.br/) com a [SUZANO](https://www.suzano.com.br/), em Setembro de 2022.
+Desafio de Projeto proposto no programa **DIVersidade TECH**, da [Let's Code from ADA](https://www.letscode.com.br/) com a [SUZANO](https://www.suzano.com.br/), em Setembro de 2022.
 
 - Autor: [Anderson Miranda](https://github.com/aluipio) e [Thiago Mesquita]()
 - Facilitador: [Rogério Mainardes]()
