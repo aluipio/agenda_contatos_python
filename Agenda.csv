@@ -1,0 +1,51 @@
+letra;indice;nome;telefone;email 
+A;1;Amanda Alves;5230668912;amandaalves@exemplo.com
+A;2;Alexandre Novaes;5469735358;alexandrenova@exemplo.com
+B;1;Benjamin Novaes;4707789062;benjaminnovae@exemplo.com
+C;1;Carlos Eduardo Fogaça;7890940047;carloseduardo@exemplo.com
+C;2;Carolina Correia;8662353257;carolinacorre@exemplo.com
+C;3;Cauê Farias;6809758699;cauêfarias@exemplo.com
+D;1;Dra. Ana Carolina Correia;3856491644;dra.anacaroli@exemplo.com
+D;2;Dra. Bárbara Rezende;4958365982;dra.bárbarare@exemplo.com
+D;3;Dr. Luigi da Cunha;8847833120;dr.luigidacun@exemplo.com
+D;4;Davi Luiz Ramos;6933599887;daviluizramos@exemplo.com
+D;5;Dra. Emanuelly Jesus;6179579736;dra.emanuelly@exemplo.com
+D;6;Dr. Lucca Almeida;9533161777;dr.luccaalmei@exemplo.com
+D;7;Dr. Enrico Mendes;1964952760;dr.enricomend@exemplo.com
+E;1;Emilly Cardoso;3322005941;emillycardoso@exemplo.com
+E;2;Esther Barros;8002340283;estherbarros@exemplo.com
+E;3;Emanuel Silva;8855426472;emanuelsilva@exemplo.com
+E;4;Enrico Barros;6682745662;enricobarros@exemplo.com
+E;5;Enzo da Conceição;6525722493;enzodaconceiç@exemplo.com
+E;6;Elisa Campos;9487847011;elisacampos@exemplo.com
+E;7;Eduarda Novaes;9520314131;eduardanovaes@exemplo.com
+E;8;Emanuelly da Luz;8396517909;emanuellydalu@exemplo.com
+F;1;Francisco Farias;4462539019;franciscofari@exemplo.com
+G;1;Giovanna Cardoso;3599677994;giovannacardo@exemplo.com
+G;2;Gabriel Pires;3490556947;gabrielpires@exemplo.com
+I;1;Isadora Fernandes;9015921570;isadorafernan@exemplo.com
+I;2;Isabel Lima;5942149579;isabellima@exemplo.com
+I;3;Isadora Castro;7097114584;isadoracastro@exemplo.com
+J;1;João Gabriel Rodrigues;8019858123;joãogabrielro@exemplo.com
+L;1;Lucas Cunha;3290044042;lucascunha@exemplo.com
+L;2;Luiz Gustavo Nunes;8076038964;luizgustavonu@exemplo.com
+M;1;Maria Cecília Pinto;2949922015;mariacecíliap@exemplo.com
+M;2;Mariana Fernandes;7789365865;marianafernan@exemplo.com
+M;3;Maria Vitória Monteiro;5710954210;mariavitóriam@exemplo.com
+M;4;Mariane Ramos;3391225862;marianeramos@exemplo.com
+M;5;Maria Julia Teixeira;1804123634;mariajuliatei@exemplo.com
+M;6;Maria Barbosa;3197807490;mariabarbosa@exemplo.com
+N;1;Noah Cunha;3075297479;noahcunha@exemplo.com
+O;1;Otávio Barros;9563592681;otáviobarros@exemplo.com
+P;1;Pedro Monteiro;7090768690;pedromonteiro@exemplo.com
+P;2;Pedro Santos;3327266381;pedrosantos@exemplo.com
+R;1;Ryan Azevedo;1328977977;ryanazevedo@exemplo.com
+S;1;Samuel das Neves;3971404429;samueldasneve@exemplo.com
+S;2;Stephany Lopes;7807768040;stephanylopes@exemplo.com
+S;3;Sr. Enzo Gabriel Araújo;3974788090;sr.enzogabrie@exemplo.com
+S;4;Samuel Peixoto;2712251752;samuelpeixoto@exemplo.com
+V;1;Vinicius Gonçalves;8583361110;viniciusgonça@exemplo.com
+V;2;Vitor Gabriel da Mota;9135605631;vitorgabrield@exemplo.com
+V;3;Vicente Ribeiro;6256986922;vicenteribeir@exemplo.com
+Y;1;Yago Santos;9906744193;yagosantos@exemplo.com
+Y;2;Yago Fogaça;6773495727;yagofogaça@exemplo.com

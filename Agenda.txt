@@ -1,0 +1,204 @@
+##########################################################################################
+################################### AGENDA DE CONTATOS ###################################
+##########################################################################################
+
+######################################## Letra A #########################################
+
+[ 1] Nome:  Augusto Lopes                 |  Telefone:  8402225212    |  Email:  augustolopes@exemplo.com      
+[ 2] Nome:  Ana Clara da Luz              |  Telefone:  1334783497    |  Email:  anaclaradaluz@exemplo.com     
+[ 3] Nome:  Alana Ribeiro                 |  Telefone:  4037434024    |  Email:  alanaribeiro@exemplo.com      
+[ 4] Nome:  Ana Júlia da Paz              |  Telefone:  1869168392    |  Email:  anajúliadapaz@exemplo.com     
+[ 5] Nome:  Antônio Vieira                |  Telefone:  5977735316    |  Email:  antôniovieira@exemplo.com     
+[ 6] Nome:  Ana Julia Ferreira            |  Telefone:  5608102674    |  Email:  anajuliaferre@exemplo.com     
+
+>>>>>>> Total de ( 6 ) contatos em letra A. 
+
+
+######################################## Letra B #########################################
+
+[ 1] Nome:  Bruno Rocha                   |  Telefone:  7111999345    |  Email:  brunorocha@exemplo.com        
+[ 2] Nome:  Benjamin Monteiro             |  Telefone:  1610948234    |  Email:  benjaminmonte@exemplo.com     
+
+>>>>>>> Total de ( 2 ) contatos em letra B. 
+
+
+######################################## Letra C #########################################
+
+[ 1] Nome:  Clarice Farias                |  Telefone:  8646026557    |  Email:  claricefarias@exemplo.com     
+
+>>>>>>> Total de ( 1 ) contatos em letra C. 
+
+
+######################################## Letra D #########################################
+
+[ 1] Nome:  Daniel Barbosa                |  Telefone:  3632313227    |  Email:  danielbarbosa@exemplo.com     
+[ 2] Nome:  Dr. Enzo Mendes               |  Telefone:  9916484393    |  Email:  dr.enzomendes@exemplo.com     
+[ 3] Nome:  Dra. Yasmin Souza             |  Telefone:  7061645830    |  Email:  dra.yasminsou@exemplo.com     
+[ 4] Nome:  Dr. Henrique Farias           |  Telefone:  4794445744    |  Email:  dr.henriquefa@exemplo.com     
+[ 5] Nome:  Dr. Vinicius Melo             |  Telefone:  9126258587    |  Email:  dr.viniciusme@exemplo.com     
+[ 6] Nome:  Dr. Rodrigo Nogueira          |  Telefone:  1292726309    |  Email:  dr.rodrigonog@exemplo.com     
+
+>>>>>>> Total de ( 6 ) contatos em letra D. 
+
+
+######################################## Letra E #########################################
+
+[ 1] Nome:  Emanuelly Silva               |  Telefone:  5304203651    |  Email:  emanuellysilv@exemplo.com     
+[ 2] Nome:  Esther Nascimento             |  Telefone:  4927738495    |  Email:  esthernascime@exemplo.com     
+
+>>>>>>> Total de ( 2 ) contatos em letra E. 
+
+
+######################################## Letra F #########################################
+
+[ 1] Nome:  Felipe Fernandes              |  Telefone:  8181937278    |  Email:  felipefernand@exemplo.com     
+
+>>>>>>> Total de ( 1 ) contatos em letra F. 
+
+
+######################################## Letra G #########################################
+
+>>>>>>> Total de ( 0 ) contatos em letra G. 
+
+
+######################################## Letra H #########################################
+
+[ 1] Nome:  Heitor Azevedo                |  Telefone:  6405646127    |  Email:  heitorazevedo@exemplo.com     
+
+>>>>>>> Total de ( 1 ) contatos em letra H. 
+
+
+######################################## Letra I #########################################
+
+[ 1] Nome:  Isabelly Peixoto              |  Telefone:  9097153336    |  Email:  isabellypeixo@exemplo.com     
+
+>>>>>>> Total de ( 1 ) contatos em letra I. 
+
+
+######################################## Letra J #########################################
+
+[ 1] Nome:  João Vitor Vieira             |  Telefone:  9143113701    |  Email:  joãovitorviei@exemplo.com     
+[ 2] Nome:  Juliana Mendes                |  Telefone:  3961055574    |  Email:  julianamendes@exemplo.com     
+[ 3] Nome:  João Guilherme Lima           |  Telefone:  8487608905    |  Email:  joãoguilherme@exemplo.com     
+
+>>>>>>> Total de ( 3 ) contatos em letra J. 
+
+
+######################################## Letra K #########################################
+
+[ 1] Nome:  Kamilly da Costa              |  Telefone:  9005034093    |  Email:  kamillydacost@exemplo.com     
+
+>>>>>>> Total de ( 1 ) contatos em letra K. 
+
+
+######################################## Letra L #########################################
+
+[ 1] Nome:  Luiz Felipe da Mata           |  Telefone:  1372352753    |  Email:  luizfelipedam@exemplo.com     
+[ 2] Nome:  Lavínia Lima                  |  Telefone:  8907401391    |  Email:  lavínialima@exemplo.com       
+[ 3] Nome:  Lara Mendes                   |  Telefone:  4852583658    |  Email:  laramendes@exemplo.com        
+[ 4] Nome:  Lívia Ribeiro                 |  Telefone:  1198459995    |  Email:  líviaribeiro@exemplo.com      
+
+>>>>>>> Total de ( 4 ) contatos em letra L. 
+
+
+######################################## Letra M #########################################
+
+[ 1] Nome:  Maysa Gonçalves               |  Telefone:  8928731608    |  Email:  maysagonçalve@exemplo.com     
+[ 2] Nome:  Murilo Costa                  |  Telefone:  9993668590    |  Email:  murilocosta@exemplo.com       
+[ 3] Nome:  Marcos Vinicius Viana         |  Telefone:  7325064301    |  Email:  marcosviniciu@exemplo.com     
+[ 4] Nome:  Maria Clara Mendes            |  Telefone:  6342178327    |  Email:  mariaclaramen@exemplo.com     
+[ 5] Nome:  Maitê Gonçalves               |  Telefone:  1330571002    |  Email:  maitêgonçalve@exemplo.com     
+[ 6] Nome:  Maria Sophia Ribeiro          |  Telefone:  5824859703    |  Email:  mariasophiari@exemplo.com     
+[ 7] Nome:  Mirella Vieira                |  Telefone:  5036163656    |  Email:  mirellavieira@exemplo.com     
+
+>>>>>>> Total de ( 7 ) contatos em letra M. 
+
+
+######################################## Letra N #########################################
+
+[ 1] Nome:  Noah Pires                    |  Telefone:  8378231226    |  Email:  noahpires@exemplo.com         
+
+>>>>>>> Total de ( 1 ) contatos em letra N. 
+
+
+######################################## Letra O #########################################
+
+[ 1] Nome:  Otávio Mendes                 |  Telefone:  7670136180    |  Email:  otáviomendes@exemplo.com      
+
+>>>>>>> Total de ( 1 ) contatos em letra O. 
+
+
+######################################## Letra P #########################################
+
+[ 1] Nome:  Paulo da Rocha                |  Telefone:  5136711937    |  Email:  paulodarocha@exemplo.com      
+
+>>>>>>> Total de ( 1 ) contatos em letra P. 
+
+
+######################################## Letra Q #########################################
+
+>>>>>>> Total de ( 0 ) contatos em letra Q. 
+
+
+######################################## Letra R #########################################
+
+[ 1] Nome:  Rafaela da Mata               |  Telefone:  2622189794    |  Email:  rafaeladamata@exemplo.com     
+[ 2] Nome:  Rafael Silveira               |  Telefone:  5946466760    |  Email:  rafaelsilveir@exemplo.com     
+
+>>>>>>> Total de ( 2 ) contatos em letra R. 
+
+
+######################################## Letra S #########################################
+
+[ 1] Nome:  Sofia Moura                   |  Telefone:  5341683178    |  Email:  sofiamoura@exemplo.com        
+[ 2] Nome:  Sr. Vitor Alves               |  Telefone:  6233786280    |  Email:  sr.vitoralves@exemplo.com     
+[ 3] Nome:  Sofia Pereira                 |  Telefone:  6670645352    |  Email:  sofiapereira@exemplo.com      
+[ 4] Nome:  Srta. Marcela Araújo          |  Telefone:  8881960366    |  Email:  srta.marcelaa@exemplo.com     
+
+>>>>>>> Total de ( 4 ) contatos em letra S. 
+
+
+######################################## Letra T #########################################
+
+[ 1] Nome:  Thales Ferreira               |  Telefone:  4320267852    |  Email:  thalesferreir@exemplo.com     
+[ 2] Nome:  Thales Araújo                 |  Telefone:  2393209823    |  Email:  thalesaraújo@exemplo.com      
+[ 3] Nome:  Thales Vieira                 |  Telefone:  5932253901    |  Email:  thalesvieira@exemplo.com      
+
+>>>>>>> Total de ( 3 ) contatos em letra T. 
+
+
+######################################## Letra U #########################################
+
+>>>>>>> Total de ( 0 ) contatos em letra U. 
+
+
+######################################## Letra V #########################################
+
+[ 1] Nome:  Vinicius Cardoso              |  Telefone:  8184660400    |  Email:  viniciuscardo@exemplo.com     
+
+>>>>>>> Total de ( 1 ) contatos em letra V. 
+
+
+######################################## Letra W #########################################
+
+>>>>>>> Total de ( 0 ) contatos em letra W. 
+
+
+######################################## Letra X #########################################
+
+>>>>>>> Total de ( 0 ) contatos em letra X. 
+
+
+######################################## Letra Y #########################################
+
+[ 1] Nome:  Yago Ramos                    |  Telefone:  4379533689    |  Email:  yagoramos@exemplo.com         
+[ 2] Nome:  Yasmin Mendes                 |  Telefone:  1292588781    |  Email:  yasminmendes@exemplo.com      
+
+>>>>>>> Total de ( 2 ) contatos em letra Y. 
+
+
+######################################## Letra Z #########################################
+
+>>>>>>> Total de ( 0 ) contatos em letra Z. 
+
+
